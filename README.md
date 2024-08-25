@@ -83,6 +83,19 @@ We used the SFML library for graphics and sound. Follow these instructions to in
 1. Download the SFML library from the [official website](https://www.sfml-dev.org/download/sfml/2.5.1). The direct link for the 64-bit Visual C++ 2017 file is [here](https://www.sfml-dev.org/files/SFML-2.5.1-windows-vc15-64-bit.zip).
 2. Extract the downloaded file into a folder named `SFML` in your `C:` drive. After extraction, you should have a folder structure like `C:\SFML\SFML-2.5.1` with subfolders such as `bin`, `include`, `lib`, etc.
 
-   
+## Pictures from the game:
+
 ![help1](https://github.com/HadasMai/Mulan-Save-My-Friend---Game/assets/154980811/483a3a62-7928-4aba-8d74-56a6473b005f)
+
+![Open page](./resources/open_window.png)
+
+![Open page](./resources/play1.png)
+
+![Open page](./resources/play2.png)
+
+![Open page](./resources/play3.png)
+
+![Open page](./resources/win_window.png)
+
+
 
